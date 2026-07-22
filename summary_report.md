@@ -1,6 +1,10 @@
 # 💳 Credit Card Fraud Detection using Supervised Machine Learning
+
 ## DATASET LINK:
 Kaggle Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud 
+
+## VIDEO LINK:
+LINK:https://drive.google.com/file/d/1epFLAF_KI21smBbjd2vXlPz2DEpef-Wz/view?usp=sharing
 ## 📌 Project Overview
 
 This project focuses on detecting fraudulent credit card transactions using supervised machine learning techniques. Since fraud detection datasets are highly imbalanced, the project emphasizes appropriate evaluation metrics such as Precision, Recall, F1-Score, PR-AUC, and ROC-AUC instead of relying only on accuracy.
